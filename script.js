@@ -14,7 +14,7 @@ menuIcon.addEventListener("click", function() {
     const textLines = [
       "Photographer",
       "Photo Editors",
-      "Hacker",
+      "",
       "Video Editor "
     ];
 
