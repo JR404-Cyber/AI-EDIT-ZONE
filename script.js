@@ -14,8 +14,7 @@ menuIcon.addEventListener("click", function() {
     const textLines = [
       "Photographer",
       "Photo Editors",
-      "",
-      "Video Editor "
+       "Video Editor "
     ];
 
     const textContainer = document.getElementById("text-container");
